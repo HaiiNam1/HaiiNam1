@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class tinhtongso {
+public class trang30 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
