@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class trang55 {
+public class slide55 {
 
     public static void main(String[] args) {
         System.out.println("Cac so chia het cho 5 trong pham vi tu 0 den 20:");

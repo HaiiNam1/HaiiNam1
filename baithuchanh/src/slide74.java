@@ -1,4 +1,4 @@
-public class trang74 {
+public class slide74 {
     public static void main(String[] args) {
         // Vi du su dung chuong trinh
         int[] mangSo = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};

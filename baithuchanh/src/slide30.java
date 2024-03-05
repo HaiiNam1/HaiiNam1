@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class trang30 {
+public class slide30 {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
