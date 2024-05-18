@@ -1,6 +1,6 @@
 public class mainstudent {
     public static void main(String[] args) throws Exception {
-        Student Std = new Student();
+        student Std = new student();
         System.out.println("Sinh vien: ");
         Std.nhapgiatri();
         Std.inGiatri();
